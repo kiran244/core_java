@@ -11,7 +11,7 @@ public void run() {
 			e.printStackTrace();
 		}
 		}
-	}
+}
 		public static void main(String[] args) throws
 			InterruptedException {
 			ThreadDemo de = new ThreadDemo();
